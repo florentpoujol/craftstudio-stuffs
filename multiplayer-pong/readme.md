@@ -4,11 +4,11 @@ A two-players online (or single player offline) Pong, created to test the multip
 
 The project is really basic, I just took the code from Blast Turtle and adapted it to my style and the needs of a game like Pong.
 
-Watch a video : https://www.youtube.com/watch?v=dhYlebUx7wk
+Watch a video : https://www.youtube.com/sourwatch?v=dhYlebUx7wk
 
 ## How to play
 
-Once the game is open (run the `.exe` in the `build` folder), you can click on the "host" text to become the server.
+Once the game is open, you can click on the "host" text to become the server.
 
 The other player must then fill your public IP adresse in the field then click "Join".
 
