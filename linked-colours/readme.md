@@ -7,4 +7,4 @@ http://www.ludumdare.com/compo/ludum-dare-30/?action=preview&uid=14207
 
 Play the game in your browser here : https://florentpoujol.itch.io/linked-colours
 
-![Completion of a random level](https://dl.dropboxusercontent.com/u/51314747/CraftStudio/Ludum%20Dare%2030/screenshots/random-end.png "Completion of a random level")
+![Completion of a random level](screenshot3.png "Completion of a random level")

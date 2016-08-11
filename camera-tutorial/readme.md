@@ -148,7 +148,7 @@ The on-screen size of objects depends on the camera's FOV and the distance betwe
 
     BaseDist = 0.5 / tan( FOV / 2 )
 
-__/!\ __  `math.tan()` (and other such functions) in Lua expect the angle to be in radius, but `camera:GetFOV()` returns the FOV in degree. You msut convert the FOV from degree to radian with `math.rad()`.
+/!\  `math.tan()` (and other such functions) in Lua expect the angle to be in radius, but `camera:GetFOV()` returns the FOV in degree. You msut convert the FOV from degree to radian with `math.rad()`.
 
 The bigger the FOV, the smaller `BaseDist` :
 

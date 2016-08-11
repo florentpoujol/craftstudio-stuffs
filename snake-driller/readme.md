@@ -13,3 +13,5 @@ A game I made for the [Ludum Dare #29 Compo](http://www.ludumdare.com/compo/ludu
 ## Download
 
 Screenshots and Windows, Mac and Linux executables can be found [on the Ludum Dare website](http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&uid=14207).
+
+![](play1_screenshot.png)
