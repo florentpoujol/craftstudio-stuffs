@@ -1,4 +1,4 @@
-[< Tutorial introduction](tutorial-introduction.md)
+[< Tutorial introduction](readme.md)
 
 [Introduction to Models and Animations >](introduction-to-models-and-animations.md)
 
@@ -175,6 +175,6 @@ To open the project, you can either click again on the button in the server's wi
 
 ---
 
-[< Tutorial introduction](tutorial-introduction.md)
+[< Tutorial introduction](readme.md)
 
 [Introduction to Models and Animations >](introduction-to-models-and-animations.md)
